@@ -1,6 +1,6 @@
-# Förutsägelse av diamantpris
+# Diamond price prediction
 
-Ett projekt jag använt för att lära mig mer om maskininlärning och dataanalys.
+A project I used to learn more about machinelearning and data anlasys
 
 ### Dataset
 
