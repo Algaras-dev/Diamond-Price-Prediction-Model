@@ -1,6 +1,6 @@
 # Diamond price prediction
 
-A project I used to learn more about machinelearning and data anlasys
+A project I used to learn more about machine learning and data anlasys
 
 ### Dataset
 
